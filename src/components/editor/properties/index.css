@@ -1,0 +1,4 @@
+.ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled){
+  color: #ffffff;
+  background-color: #1890ff;
+}
